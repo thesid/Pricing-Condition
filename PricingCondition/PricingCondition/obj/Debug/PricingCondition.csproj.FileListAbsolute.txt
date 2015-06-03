@@ -1,0 +1,9 @@
+\\vmware-host\Shared Folders\Desktop\PricingCondition\PricingCondition\bin\Debug\PricingCondition.exe.config
+\\vmware-host\Shared Folders\Desktop\PricingCondition\PricingCondition\bin\Debug\PricingCondition.exe
+\\vmware-host\Shared Folders\Desktop\PricingCondition\PricingCondition\bin\Debug\PricingCondition.pdb
+\\vmware-host\Shared Folders\Desktop\PricingCondition\PricingCondition\obj\Debug\PricingCondition.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\PricingCondition\PricingCondition\obj\Debug\PricingCondition.Form1.resources
+\\vmware-host\Shared Folders\Desktop\PricingCondition\PricingCondition\obj\Debug\PricingCondition.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\PricingCondition\PricingCondition\obj\Debug\PricingCondition.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\PricingCondition\PricingCondition\obj\Debug\PricingCondition.exe
+\\vmware-host\Shared Folders\Desktop\PricingCondition\PricingCondition\obj\Debug\PricingCondition.pdb
